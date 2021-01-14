@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alex Magnin -- Content -- @alexmagnin
+    Alex Harris -- Development - @alexharris6
+    
 
 # THANKS
 
-    <name>
+    Thanks, everyone
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    https://html5boilerplate.com/
+    https://newcss.net/
