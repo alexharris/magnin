@@ -1,0 +1,39 @@
+header {
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+}
+
+header > * {
+    padding-bottom: 10px;
+}
+
+/* middle item in the header */
+header div:nth-child(2) {
+    text-align: center;
+}
+
+/*  right item in the header */
+header div:nth-child(3) {
+    text-align: right;
+}
+
+@media (max-width: 800px) {
+    header {
+        flex-direction: column;
+    }
+    // middle item in the header
+    header:nth-child(2) {
+        text-align: left;
+    }
+    
+    // right item in the header
+    header:nth-child(3) {
+        text-align: left;
+    }    
+ }
+
+header > * {
+    flex: 1 1 0;
+  }
+
