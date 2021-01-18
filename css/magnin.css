@@ -21,7 +21,7 @@ header > * {
 
     /*  right item in the header */
     header div:nth-child(3) {
-        text-align: right;
+        /* text-align: right; */
     } 
  }
 
