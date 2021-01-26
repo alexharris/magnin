@@ -16,7 +16,7 @@ header > * {
     
     /* middle item in the header */
     header div:nth-child(2) {
-        text-align: center;
+        /* text-align: center; */
     }
 
     /*  right item in the header */
